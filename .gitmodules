@@ -1,0 +1,3 @@
+[submodule "external/SharpChess"]
+	path = external/SharpChess
+	url = git@github.com:rolfbjarne/SharpChess.git
